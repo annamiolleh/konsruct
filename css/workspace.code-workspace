@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Homework\\Homework 1\\css"
+		},
+		{
+			"path": "..\\..\\Homework\\Homework 1\\img"
+		},
+		{
+			"path": "..\\..\\Homework\\Homework 1\\js"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Construct"
+	}
+}
