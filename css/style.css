@@ -26,7 +26,7 @@ font-family: 'Open Sans', sans-serif;
 /* визуально все должно быть рядом! */
 
 .header {
-    background: url(/img/header_bg.png) no-repeat;
+    background: url(../img/header_bg.png) no-repeat;
     background-size: cover;
     width: 100%;  
 }
@@ -195,7 +195,7 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .about__plan {
-    background: url(/img/about/plan.png) no-repeat;
+    background: url(../img/about/plan.png) no-repeat;
     width: 400px;
     height: 300px;
 }
@@ -214,13 +214,13 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .about__manage {
-    background: url(/img/about/manage.png) no-repeat;
+    background: url(../img/about/manage.png) no-repeat;
     width: 400px;
     height: 300px;
 }
 
 .about__build {
-    background: url(/img/about/build.png) no-repeat;
+    background: url(../img/about/build.png) no-repeat;
     width: 400px;
     height: 300px;
 }
@@ -350,7 +350,7 @@ font-family: 'Open Sans', sans-serif;
 /* End of the Services section */
 
 .work{
-    background: url(/img/work_bg.png) no-repeat;
+    background: url(../img/work_bg.png) no-repeat;
     background-size: cover;
     height: 500px;
     width: 100%; 
